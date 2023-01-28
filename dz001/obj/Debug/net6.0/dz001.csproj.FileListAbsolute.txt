@@ -1,0 +1,15 @@
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\bin\Debug\net6.0\dz001.exe
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\bin\Debug\net6.0\dz001.deps.json
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\bin\Debug\net6.0\dz001.runtimeconfig.json
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\bin\Debug\net6.0\dz001.dll
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\bin\Debug\net6.0\dz001.pdb
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.csproj.AssemblyReference.cache
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.AssemblyInfoInputs.cache
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.AssemblyInfo.cs
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.csproj.CoreCompileInputs.cache
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.dll
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\refint\dz001.dll
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.pdb
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\dz001.genruntimeconfig.cache
+C:\Users\Елена\OneDrive\Рабочий стол\DZ\dz001\obj\Debug\net6.0\ref\dz001.dll
