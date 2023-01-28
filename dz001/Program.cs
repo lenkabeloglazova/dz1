@@ -12,9 +12,10 @@ Console.WriteLine("Введи второе число: ");
 long b = Convert.ToInt64(Console.ReadLine());
 if (a > b)
 {
-    Console.WriteLine("max первое число ");
+    Console.WriteLine("max первое число, min второе число ");
 }
+  
 if (a < b)
 {
-    Console.WriteLine("max второе число ");
+    Console.WriteLine("max второе число, min первое число ");
 }
